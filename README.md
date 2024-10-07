@@ -45,7 +45,60 @@ Edge Case Handling: If the array has fewer than two distinct numbers, the progra
 You need to have the Java Development Kit (JDK) installed on your system. To check if Java is installed, use the following command:
 java -version
 ### Step 1: Clone the repository
-git clone https://github.com/your-repo/java-projects.git
-cd java-projects
+git clone [https://github.com/your-repo/java-projects.git](https://github.com/Rajesh7789/constructWeek_java_b39.git)
+cd projects
+### Step-2: For Employee Details Management Project
+1- Navigate to the emolyee directory
+2- Compile the program
+3- Run the program
+### Step 3: For Finding the Second Largest Number Project
+1- Navigate to the secondLargestNumber directory
+2- Compile the program
+3- Run the program
+
+## Usage
+### Employee Details Management Project
+Upon running the program, it will ask for the number of employees. For each employee, you will be prompted to enter the name, ID, and monthly salary. The program will then calculate and display the employee’s annual salary.
+
+### Example Input
+Enter the number of employees: 2
+Enter details for Employee 1:
+Name: Alice
+ID: E001
+Monthly Salary: 3000
+
+Enter details for Employee 2:
+Name: Bob
+ID: E002
+Monthly Salary: 4000
+
+### Example Output
+Employee Details:
+Name: Alice, ID: E001, Monthly Salary: 3000, Annual Salary: 36000
+Name: Bob, ID: E002, Monthly Salary: 4000, Annual Salary: 48000
+
+### Finding the Second Largest Number Project
+The program will ask you to input the size of the array and then enter each element. Once all elements are entered, it will display the second largest number.
+
+### Example Input
+Enter the size of the array: 5
+Enter the elements of the array: 12 35 1 10 34 1
+
+### Example Output
+The second largest element is: 34
+
+## Credentials
+No authentication is required since both projects are simple console applications.
+
+## APIs Used
+No external APIs are used in these projects.
+
+## API Endpoints
+Not applicable for these projects, as they are console-based applications with no backend or web service functionality.
+
+## Technology Stack
+Java: The core programming language for both projects.
+Scanner Class: Used to handle user input from the console.
+Arrays: Employed in the Second Largest Number project to store and manipulate data.
 
 
