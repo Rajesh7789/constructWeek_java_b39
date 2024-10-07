@@ -20,7 +20,7 @@ java-projects/
 │  ├─ Main.java      # Program to find second largest number in an array  
 
 ## Video Walkthrough of the Project
-[click here for the video demo ] (https://youtu.be/QqnOVhVcho8)
+[click here for the video demo ](https://youtu.be/QqnOVhVcho8)
 
 ## Features
 ### Employee Details Management Project
