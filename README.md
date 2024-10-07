@@ -12,12 +12,12 @@ Both projects demonstrate core Java principles such as object-oriented programmi
 Backend(console-based-application)
 
 ## Directory structure
-java-projects/
-├─ employee-details/
-│  ├─ Employee.java  # Class that holds employee data and methods
-│  ├─ Main.java      # Main program that takes input and displays employee details
-├─ second-largest-number/
-│  ├─ Main.java      # Program to find second largest number in an array
+java-projects/  
+├─ employee-details/  
+│  ├─ Employee.java  # Class that holds employee data and methods  
+│  ├─ Main.java      # Main program that takes input and displays employee details  
+├─ second-largest-number/  
+│  ├─ Main.java      # Program to find second largest number in an array  
 
 ## Video Walkthrough of the Project
 [click here for the video demo ] (https://youtu.be/QqnOVhVcho8)
