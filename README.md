@@ -102,3 +102,4 @@ Scanner Class: Used to handle user input from the console.
 Arrays: Employed in the Second Largest Number project to store and manipulate data.
 
 
+
