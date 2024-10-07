@@ -48,13 +48,13 @@ java -version
 git clone [https://github.com/your-repo/java-projects.git](https://github.com/Rajesh7789/constructWeek_java_b39.git)
 cd projects
 ### Step-2: For Employee Details Management Project
-1- Navigate to the emolyee directory
-2- Compile the program
-3- Run the program
+1- Navigate to the emolyee directory  
+2- Compile the program  
+3- Run the program  
 ### Step 3: For Finding the Second Largest Number Project
-1- Navigate to the secondLargestNumber directory
-2- Compile the program
-3- Run the program
+1- Navigate to the secondLargestNumber directory  
+2- Compile the program  
+3- Run the program  
 
 ## Usage
 ### Employee Details Management Project
