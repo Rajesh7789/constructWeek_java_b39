@@ -3,8 +3,8 @@
 ## Introduction
 This repository contains two basic Java projects:
 
-1.Employee Details Management: A console-based application where users can input employee details such as name, ID, and monthly salary. The application calculates and displays the annual salary for each employee.
-2.Finding the Second Largest Number: A program that allows users to input an array of integers, then finds and displays the second largest number from the array.
+1. Employee Details Management: A console-based application where users can input employee details such as name, ID, and monthly salary. The application calculates and displays the annual salary for each employee.
+2. Finding the Second Largest Number: A program that allows users to input an array of integers, then finds and displays the second largest number from the array.
 
 Both projects demonstrate core Java principles such as object-oriented programming, loops, arrays, and user input handling via the Scanner class.
 
@@ -35,7 +35,7 @@ Handle edge cases, such as arrays with identical elements or too few unique numb
 ## Design Decisions or Assumptions
 ### Employee Details Management Project
 Object-Oriented Approach: The Employee class is used to store employee data (name, ID, salary) and calculate the annual salary.
-Annual Salary Calculation: It assumes a year has 12 months, and the annual salary is derived by multiplying the monthly salary by 12.
+Annual Salary Calculation: It assumes a year has 12 months, and the yearly salary is derived by multiplying the monthly salary by 12.
 ### Finding the Second Largest Number Project
 Efficient Algorithm: The second largest number is determined in a single pass through the array using comparisons.
 Edge Case Handling: If the array has fewer than two distinct numbers, the program alerts the user that no second largest number is available.
@@ -61,19 +61,19 @@ cd projects
 Upon running the program, it will ask for the number of employees. For each employee, you will be prompted to enter the name, ID, and monthly salary. The program will then calculate and display the employee’s annual salary.
 
 ### Example Input
-Enter the number of employees: 2
-Enter details for Employee 1:
-Name: Alice
-ID: E001
-Monthly Salary: 3000
+Enter the number of employees: 2  
+Enter details for Employee 1:  
+Name: Alice  
+ID: E001  
+Monthly Salary: 3000  
 
-Enter details for Employee 2:
-Name: Bob
-ID: E002
-Monthly Salary: 4000
+Enter details for Employee 2:  
+Name: Bob  
+ID: E002  
+Monthly Salary: 4000  
 
 ### Example Output
-Employee Details:
+Employee Details:  
 Name: Alice, ID: E001, Monthly Salary: 3000, Annual Salary: 36000
 Name: Bob, ID: E002, Monthly Salary: 4000, Annual Salary: 48000
 
@@ -94,11 +94,11 @@ No authentication is required since both projects are simple console application
 No external APIs are used in these projects.
 
 ## API Endpoints
-Not applicable for these projects, as they are console-based applications with no backend or web service functionality.
+Not applicable to these projects, as they are console-based applications with no backend or web service functionality.
 
 ## Technology Stack
-Java: The core programming language for both projects.
-Scanner Class: Used to handle user input from the console.
+Java: The core programming language for both projects.  
+Scanner Class: Used to handle user input from the console.  
 Arrays: Employed in the Second Largest Number project to store and manipulate data.
 
 
